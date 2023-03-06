@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>244404006835-8tgiqq4o0t5gut918h1ffnev21opgam0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.244404006835-8tgiqq4o0t5gut918h1ffnev21opgam0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBm6VNYua2GmYMmo1Y7rgsONylq9Zze6_A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>244404006835</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.luminousNexus</string>
+	<key>PROJECT_ID</key>
+	<string>fir-auth-lmnx</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-auth-lmnx.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:244404006835:ios:525bac588280fdb02925c6</string>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244404006835",
+    "project_id": "fir-auth-lmnx",
+    "storage_bucket": "fir-auth-lmnx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244404006835:android:01946f2dfea8ee112925c6",
+        "android_client_info": {
+          "package_name": "com.example.luminous_nexus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244404006835-4gsd3fp5g42fms69bjd209ht5vs55vsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnpkShYjQ-Wx97WLyNVAe9YeCxESws2jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244404006835-4gsd3fp5g42fms69bjd209ht5vs55vsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
